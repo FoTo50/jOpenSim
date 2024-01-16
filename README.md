@@ -1,5 +1,8 @@
 # jOpenSim
 
-A new place for jOpenSim. The plan is to get mantis.jopensim.com here to issues and wiki.jopensim.com here to wiki
+A new public place for jOpenSim. The plan is to get mantis.jopensim.com here to issues and wiki.jopensim.com here to wiki
 
-jOpenSim in an extension for Joomla to handle OpenSimulator grids.
+For those who dont know it yet: jOpenSim in an extension for Joomla to handle OpenSimulator grids.
+
+> [!NOTE]
+> jOpenSim is not affiliated with or endorsed by the Joomla! Project, Open Source Matters or OpenSimulator. The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries.
