@@ -1,6 +1,6 @@
 # jOpenSim
 
-A new public place for jOpenSim. The plan is to get mantis.jopensim.com here to issues and wiki.jopensim.com here to wiki
+A new public place for jOpenSim. The plan is to get mantis.jopensim.com here to [Issues](https://github.com/FoTo50/jopensim/issues) and wiki.jopensim.com here to [Wiki](https://github.com/FoTo50/jopensim/wiki)
 
 For those who dont know it yet: jOpenSim in an extension for Joomla to handle OpenSimulator grids.
 
